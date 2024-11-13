@@ -1,6 +1,6 @@
 # WinterHunt
 
-![sfi2](https://github.com/user-attachments/assets/348ff63f-eeb2-4589-b87f-07fd368c58a6)
+![sfi3](https://github.com/user-attachments/assets/2066795e-2ee2-47c9-9607-e58f9917cc37)
 
 !!THIS PROJECT IS UNDER ACTIVE DEVELOPMENT -- APPLICATION MAY BE UNSTABLE OR ERRORS MAY OCCURE -- CONTINUOUS UPDATES TO FUNCTIONALITY IN PROGRESS!!
 
