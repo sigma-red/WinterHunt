@@ -1,5 +1,8 @@
 # WinterHunt
 
+![sfi](https://github.com/user-attachments/assets/32c4db09-fdd4-4f01-adae-c8ac75e8c3f1)
+
+
 !!THIS PROJECT IS UNDER ACTIVE DEVELOPMENT -- APPLICATION MAY BE UNSTABLE OR ERRORS MAY OCCURE -- CONTINUOUS UPDATES TO FUNCTIONALITY IN PROGRESS!!
 
 The WinterHunt is a Python-based application designed for cybersecurity professionals. It allows users to dynamically load, edit, and execute PowerShell scripts either locally or on remote hosts. This tool is ideal for executing `.ps1` scripts on multiple systems, facilitating remote administration and artifact collection.
